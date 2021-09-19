@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xmvn
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning React, React Native
-- 📫 How to reach me: telegram @xmvnz
+- 📫 How to reach me: https://t.me/xmvnz
 
 <!---
 xmvn/xmvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
